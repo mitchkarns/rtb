@@ -1,0 +1,3 @@
+[submodule "apps/adsnative_rtb"]
+	path = apps/adsnative_rtb
+	url = https://github.com/picatcha/adsnative_rtb/
